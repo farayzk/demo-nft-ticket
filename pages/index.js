@@ -5,6 +5,9 @@ export default function Home() {
       <div className="bg-black min-h-screen">
         <Navbar/>
         <Hero/>
+        {/* Benefit */}
+        {/* Minting Page */}
+        {/* Footer */}
       </div>
   )
 }
